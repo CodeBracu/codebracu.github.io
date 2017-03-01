@@ -1,15 +1,15 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+title: Code BracU
+description: "A blog for programming contest enthusia ..."
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "https://codebracu.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
+username: Code BracU
+user_title: Code BracU - FrontEnd
+email: codebracu@gmail.com
 twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
+github_username:  codebracu
+gplus_username:  codebracu
 disqus_username: loremipsum
 
 # Build settings
@@ -29,7 +29,7 @@ compress_html:
 links:
   - title: home
     url: /
-  - title: my posts
+  - title: posts
     url: /posts
   - title: series
     url: /series

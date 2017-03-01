@@ -7,10 +7,10 @@ url: "https://codebracu.github.io/" # for test: remove string 'http://victorvoid
 username: Code BracU
 user_title: Code BracU - FrontEnd
 email: codebracu@gmail.com
-twitter_username: loremipsum
+# twitter_username: loremipsum
 github_username:  codebracu
-gplus_username:  codebracu
-disqus_username: loremipsum
+gplus_username:  106282287131587191694
+# disqus_username: loremipsum
 
 # Build settings
 markdown: kramdown
